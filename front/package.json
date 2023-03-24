@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@fullcalendar/core": "^6.1.5",
+    "@fullcalendar/daygrid": "^6.1.5",
+    "@fullcalendar/react": "^6.1.5",
+    "gapi-script": "^1.2.0",
+    "install": "^0.13.0",
+    "npm": "^9.6.2"
+  }
+}
